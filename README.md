@@ -15,9 +15,9 @@ Most of my experience is in programming and web development, but I also like exp
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuusvanMeel\&show_icons=true\&hide_border=true\&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuusvanMeel&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuusvanMeel\&layout=compact\&hide_border=true\&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuusvanMeel&layout=compact&hide_border=true&theme=transparent)
 
 
 ## 🐍 Contributions
